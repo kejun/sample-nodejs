@@ -8,7 +8,8 @@ const {
   opn
 } = require('macaca-utils');
 const path = require('path');
-const wd = require('macaca-wd');
+
+import wd from 'macaca-wd';
 
 const pkg = require('../package');
 

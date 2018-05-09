@@ -13,6 +13,8 @@
   },
   "devDependencies": {
     "android-app-bootstrap": "^1.0.8",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
     "blink-diff": "^1.0.13",
     "chai": "^4.1.2",
     "cross-env": "^5.1.4",
@@ -23,7 +25,7 @@
     "macaca-simple-reportor": "^1.0.0",
     "macaca-utils": "*",
     "macaca-wd": "^1.0.17",
-    "mocha": "^4.0.1",
+    "mocha": "^5.1.1",
     "webdriver-keycode": "^1.0.2"
   },
   "optionalDependencies": {
